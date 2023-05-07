@@ -1,13 +1,13 @@
 ## Movie Seat Booking
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
-![Screenshot (328)](https://user-images.githubusercontent.com/72693753/236671593-8099e8c2-ac55-4646-8aea-b042cfcaad9a.png)
+![Screenshot (333)](https://user-images.githubusercontent.com/72693753/236671813-a9bbd79e-1205-4d60-bf1a-2654bcf64506.png)
+![Screenshot (334)](https://user-images.githubusercontent.com/72693753/236671818-b9ae8314-caad-46a7-a919-556dfae892ff.png)
 
-![Screenshot (329)]![Screenshot (330)](https://user-images.githubusercontent.com/72693753/236671493-9f820fb6-8dcc-4deb-9a46-84b494cf6a50.png)
-(https://user-images.githubusercontent.com/72693753/236671488-a83e5978-af8b-42fd-a06f-39441e5f1fcc.png)
+![Screenshot (335)](https://user-images.githubusercontent.com/72693753/236671824-2dcbb62a-3670-4e5b-8723-73a766cc2bce.png)
+![Screenshot (336)](https://user-images.githubusercontent.com/72693753/236671866-31f2e412-a868-4c5d-a1a5-a447c0f78025.png)
+![Screenshot (337)](https://user-images.githubusercontent.com/72693753/236671870-7ac661bd-4e81-4257-b0e7-911abdc3bf1f.png)
 
-![Screenshot (331)](https://user-images.githubusercontent.com/72693753/236671498-37cf4250-3097-4e0a-8b06-562d3154d3cc.png)
-![Screenshot (332)](https://user-images.githubusercontent.com/72693753/236671509-6a18e02d-befa-4be2-acab-a7f4966ad1ef.png)
 
 
 
