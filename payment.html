@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="pay.css" />
+
+
+    <title>Payment</title>
+  </head>
+  <body>
+    <h1>Payment Page</h1>
+    <form action="https://example.com/payment-gateway" method="POST">
+      <label for="card-number">Card Number:</label>
+      <input type="text" id="card-number" name="card-number" required><br>
+
+      <label for="card-expiry">Expiry Date:</label>
+      <input type="month" id="card-expiry" name="card-expiry" required><br>
+
+      <label for="card-cvv">CVV:</label>
+      <input type="text" id="card-cvv" name="card-cvv" required><br>
+
+      <input type="submit" value="Pay">
+      <a href ="payment-successful.html">Pay check</a>
+    </form>
+    <div>
+      
+    </div>
+    
+    
+    <script src="app.js"></script>
+  </body>
+</html>
